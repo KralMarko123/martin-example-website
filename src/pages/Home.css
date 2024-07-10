@@ -1,0 +1,45 @@
+.title {
+	font-size: 5rem;
+}
+
+.subtitle {
+	font-size: 2rem;
+	font-weight: 300;
+}
+
+.simple-section {
+	width: 100%;
+	height: 100%;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	gap: 1em;
+	padding: 0 10em;
+}
+
+.simple-section .subtitle {
+	margin-top: 1em;
+	width: 50%;
+}
+
+.call-section {
+	width: 100%;
+	height: 100%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.call-section .fade-in-section {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 2em;
+}
+
+#intro-section {
+	padding-top: 10em;
+}

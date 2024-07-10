@@ -1,0 +1,42 @@
+.full-cover {
+	position: relative;
+	width: 100%;
+	height: 100vh;
+}
+
+.full-cover .pic {
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.full-cover .pic.dark {
+	filter: brightness(60%);
+}
+
+.full-cover .content {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+}
+
+.full-cover .video {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateX(-50%) translateY(-50%);
+	min-width: 100%;
+	min-height: 100%;
+	width: auto;
+	height: auto;
+	z-index: -1000;
+	overflow: hidden;
+}
+
+.full-cover .video.dark {
+	filter: brightness(50%);
+}

@@ -1,0 +1,17 @@
+.links {
+	display: flex;
+	align-items: center;
+	gap: 1em;
+
+	font-size: 2rem;
+}
+
+.links svg {
+	cursor: pointer;
+
+	transition: 0.25s ease-in-out;
+}
+
+.links svg:hover {
+	opacity: 0.75;
+}
