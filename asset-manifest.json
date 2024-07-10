@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/martin-website-example/static/css/main.e89d5081.css",
-    "main.js": "/martin-website-example/static/js/main.a497f24b.js",
-    "static/media/example video.mp4": "/martin-website-example/static/media/example video.ca49dde084590ed938f6.mp4",
-    "static/media/nature.jpg": "/martin-website-example/static/media/nature.9b00b8ba591117b53369.jpg",
-    "static/media/capetown.jpg": "/martin-website-example/static/media/capetown.f000273de619905971a9.jpg",
-    "static/media/squirrel.jpg": "/martin-website-example/static/media/squirrel.3c3922f857928f7909a7.jpg",
-    "index.html": "/martin-website-example/index.html",
-    "main.e89d5081.css.map": "/martin-website-example/static/css/main.e89d5081.css.map",
-    "main.a497f24b.js.map": "/martin-website-example/static/js/main.a497f24b.js.map"
+    "main.css": "/martin-example-website/static/css/main.e89d5081.css",
+    "main.js": "/martin-example-website/static/js/main.2e4e7863.js",
+    "static/media/example video.mp4": "/martin-example-website/static/media/example video.ca49dde084590ed938f6.mp4",
+    "static/media/nature.jpg": "/martin-example-website/static/media/nature.9b00b8ba591117b53369.jpg",
+    "static/media/capetown.jpg": "/martin-example-website/static/media/capetown.f000273de619905971a9.jpg",
+    "static/media/squirrel.jpg": "/martin-example-website/static/media/squirrel.3c3922f857928f7909a7.jpg",
+    "index.html": "/martin-example-website/index.html",
+    "main.e89d5081.css.map": "/martin-example-website/static/css/main.e89d5081.css.map",
+    "main.2e4e7863.js.map": "/martin-example-website/static/js/main.2e4e7863.js.map"
   },
   "entrypoints": [
     "static/css/main.e89d5081.css",
-    "static/js/main.a497f24b.js"
+    "static/js/main.2e4e7863.js"
   ]
 }
